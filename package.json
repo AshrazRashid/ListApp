@@ -1,0 +1,19 @@
+{
+  "name": "MyReactNativeApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "@react-native-community/cli-platform-android": "3.0.3",
+    "react": "^18.2.0",
+    "react-native": "^0.70.6",
+    "react-native-get-countries": "^0.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "metro-react-native-babel-preset": "^0.54.1"
+  }
+}
